@@ -1,9 +1,9 @@
 # Google Lens
-![Google lens logo](\Media\lens.png)
+![Google lens logo](/Media/lens.png)
 lorem ipsum
 
 ---
 
 # YouTube
-![YouTube Logo](\Media\Yt.jpg)
+![YouTube Logo](/Media/Yt.jpg)
 lorem ipsum
