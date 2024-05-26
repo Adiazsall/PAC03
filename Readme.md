@@ -38,8 +38,19 @@ YouTube, amb prop de 2.000 milions de visites diàries.es va convertir ràpidame
 
 A mesura que van passar els anys algunes d'aquestes funcionalitats inicials es van perdre, les pàgines personalitzades es van convertir en perfils d'usuari, els amics i els xats es van eliminar per complet. A canvi d'això YouTube va intentar implementar alguns elements similars a altres xarxes socials amb major o menor èxit.
 
-Les històries que es podien publicar són molt similars a les d'Instagram. També les publicacions de comunitat i enquestes, que en aquest cas són similars a les que es poden trobar a Twitter/X, són texts curts, sovint acompanyats d'imatges. Amb molta freqüència es tracta de comunicats que els creadors fan als seus subscriptors per tal d'informar-los respecte d'alguna qüestió d'interès del seu canal, però també s'utilitzen per publicar mems i similars.
+Les històries que es podien publicar són molt similars a les d'Instagram.
+
+![Google lens logo](/Media/youtubestoriespng.png)
+
+També les publicacions de comunitat i enquestes, que en aquest cas són similars a les que es poden trobar a Twitter/X, són texts curts, sovint acompanyats d'imatges. Amb molta freqüència es tracta de comunicats que els creadors fan als seus subscriptors per tal d'informar-los respecte d'alguna qüestió d'interès del seu canal, però també s'utilitzen per publicar mems i similars.
+
+![Google lens logo](/Media/YoutubeComunityPost.jpg)
+
+
 I després estan els shorts (molt semblants a TikTok), que són vídeos curts d'uns 30 a 60 segons aproximadament, i que són molt senzills de consumir.
+
+![Google lens logo](/Media/YouTubeShort.jpg)
+
 Pel que fa a aquestes funcionalitats, les històries van ser un concepte que no va acabar de quallar entre els seus usuaris i per aquest motiu es va anar desestimant. D’altra banda, els YouTube shorts i les publicacions de la comunitat, s'han tornat extremadament populars entre els usuaris i això ha generat l'existència de canals que únicament es dediquen a generar aquest tipus de continguts.
 
 D'ençà del seu naixement, YouTube s'ha convertit en un dels gegants d'Internet, canviant la manera en què es visualitzen els vídeos en línia. La interacció amb la comunitat és un dels elements més remarcables. Els usuaris no es limiten únicament a consumir contingut, sinó que poden interactuar amb els creadors i altres visitants a través dels comentaris, enriquint en gran manera, la seva experiència. Si bé, és cert, que darrerament les actualitzacions que han fet al lloc, canvien la manera de visualitzar i d'interactuar amb el contingut, no són idees realment originals i a la pràctica no aporten res innovador, ni rellevant.
