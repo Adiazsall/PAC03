@@ -1,5 +1,10 @@
 # Google Lens
-![Google lens logo](/Media/lens.png)
+
+<figure>
+    <img src="/Media/lens.png"
+         alt="Google lens logo">
+    <figcaption>Logotip de Google Lens</figcaption>
+</figure>
 
 Google Lens és un programari de reconeixement d'imatges desenvolupat per Google. Aquesta app permet prendre o pujar fotografies de qualsevol cosa que tinguem al nostre abast, i després gràcies a la seva capacitat d'anàlisi, basada en una xarxa neuronal (IA), ens permet fer tota una sèrie d'utilitats amb la fotografia.
 
