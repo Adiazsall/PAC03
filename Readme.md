@@ -16,7 +16,9 @@ L'OCR no es limita únicament al reconeixement de textos, també és capaç de r
 ![Google lens escanejant una equació](/Media/LensMath1.jpg)
 ![Google lens resolent una equació](/Media/LensMath2.jpg)
 
-Google, amb aquesta eina ha reinventat la manera amb la qual interactuem amb els seus productes ja existents, simplement combinant-los amb la fotografia i la intel·ligència artificial, creant una experiència d'usuari on molt sovint pot esdevenir una experiència més senzilla, que utilitzar les seves eines de la manera usual.
+## Conclusions
+
+Google, amb aquesta eina ha reinventat la manera amb la qual interactuem amb els seus productes ja existents, simplement combinant-los amb la fotografia i la intel·ligència artificial, creant una experiència d'usuari on molt sovint pot esdevenir una experiència més senzilla i intuïtiva. Gràcies a això els usuaris tenen una experiència d'ús més senzilla que la que s'obté de l'ús d'aquestes eines de la manera usual.
 
 
 
@@ -52,5 +54,7 @@ I després estan els shorts (molt semblants a TikTok), que són vídeos curts d'
 ![Short de YouTube ](/Media/YouTubeShort.jpg)
 
 Pel que fa a aquestes funcionalitats, les històries van ser un concepte que no va acabar de quallar entre els seus usuaris i per aquest motiu es va anar desestimant. D’altra banda, els YouTube shorts i les publicacions de la comunitat, s'han tornat extremadament populars entre els usuaris i això ha generat l'existència de canals que únicament es dediquen a generar aquest tipus de continguts.
+
+## Conclusions
 
 D'ençà del seu naixement, YouTube s'ha convertit en un dels gegants d'Internet, canviant la manera en què es visualitzen els vídeos en línia. La interacció amb la comunitat és un dels elements més remarcables. Els usuaris no es limiten únicament a consumir contingut, sinó que poden interactuar amb els creadors i altres visitants a través dels comentaris, enriquint en gran manera, la seva experiència. Si bé, és cert, que darrerament les actualitzacions que han fet al lloc, canvien la manera de visualitzar i d'interactuar amb el contingut, no són idees realment originals i a la pràctica no aporten res innovador, ni rellevant.
