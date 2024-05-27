@@ -5,16 +5,16 @@ Google Lens és un programari de reconeixement d'imatges desenvolupat per Google
 
 En primer lloc, cal remarcar que la seva utilitat més popular, molt probablement serà que ens permet fer una cerca a Google d'acord amb una fotografia que seleccionem. Per exemple, tenim una planta o un animal que no sabem què és? Google Lens és capaç de cercar a Internet i identificar-la, donant-nos tota mena d'informació. Veiem a un actor a la nostra sèrie preferida i no podem recordar qui és? Google Lens també ens servirà per reconèixer qui és! Serà capaç d'identificar pràcticament qualsevol cosa, objecte, personatge, etc., del o de la qual necessitem identificar i cercar informació. Des de llibres, monuments, menjars, productes... Pots fer cerques únicament amb la càmera de fotos, però també pots afegir text per contextualitzar i millorar el resultat de manera que el resultat sigui més acurat. És una eina realment potent que combina la nostra càmera de fotos del telèfon amb el popular motor de cerca, creant una manera totalment nova i interactiva de cercar informació per Internet.
 
-![Google lens logo](/Media/LensProduct.jpg)
+![Google lens escanejant un producte](/Media/LensProduct.jpg)
 
 Una altra funció molt útil que ens ofereix Google Lens és l'OCR, de les seves sigles en anglès: Optical Character Recognition (Reconeixement Òptic de Caràcters). Aquesta tecnologia permet a Google Lens reconèixer tot tipus d'escriptura en una fotografia, des de l'alfabet llatí, al ciríl·lic i fins i tot l'hiragana, katakana i kanjis japonesos. Aquesta capacitat no es limita únicament al reconeixement de caràcters digitals o d'impremta, sinó que també pot reconèixer l'escriptura a mà. És molt interessant i útil per a transcriure documents amb rapidesa. Tanmateix, cal remarcar que on realment és útil aquesta eina és quan es combina amb el traductor automàtic de Google de forma nativa. És molt eficient pe a traduir llibres en altres llengües o també orientar-se i entendre rètols estrangers.
 
-![Google lens logo](/Media/LensTranslate.jpg)
+![Google lens traduint el text d'una imatge](/Media/LensTranslate.jpg)
 
 L'OCR no es limita únicament al reconeixement de textos, també és capaç de reconèixer qualsevol mena d'equació o operació matemàtica. Aquesta funcionalitat de reconeixement també es combina amb una calculadora, d'aquesta manera Google Lens és capaç de resoldre qualsevol equació, donant el resultat complet amb la seva resolució amb detall, pas per pas.
 
-![Google lens logo](/Media/LensMath1.jpg)
-![Google lens logo](/Media/LensMath2.jpg)
+![Google lens escanejant una equació](/Media/LensMath1.jpg)
+![Google lens resolent una equació](/Media/LensMath2.jpg)
 
 Google, amb aquesta eina ha reinventat la manera amb la qual interactuem amb els seus productes ja existents, simplement combinant-los amb la fotografia i la intel·ligència artificial, creant una experiència d'usuari on molt sovint pot esdevenir una experiència més senzilla, que utilitzar les seves eines de la manera usual.
 
@@ -33,23 +33,23 @@ Com a mostra, podem destacar que la idea inicial de YouTube era la d'un lloc de 
 
 YouTube, amb prop de 2.000 milions de visites diàries.es va convertir ràpidament en una de les webs més visitades. YouTube s'havia transformat en una xarxa social amb pàgines personalitzades d'usuaris, amics, missatges de xat, comentaris i puntuacions.
 
-![Google lens logo](/Media/YoutubeCustomProfile.jpg)
-![Google lens logo](/Media/YoutubeFriends.jpg)
+![Pagina personalitzad d'un usuari de YouTube](/Media/YoutubeCustomProfile.jpg)
+![Secció d'amics de YouTube](/Media/YoutubeFriends.jpg)
 
 A mesura que van passar els anys algunes d'aquestes funcionalitats inicials es van perdre, les pàgines personalitzades es van convertir en perfils d'usuari, els amics i els xats es van eliminar per complet. A canvi d'això YouTube va intentar implementar alguns elements similars a altres xarxes socials amb major o menor èxit.
 
 Les històries que es podien publicar són molt similars a les d'Instagram.
 
-![Google lens logo](/Media/youtubestoriespng.png)
+![Antigues histories de YouTube](/Media/youtubestoriespng.png)
 
 També les publicacions de comunitat i enquestes, que en aquest cas són similars a les que es poden trobar a Twitter/X, són texts curts, sovint acompanyats d'imatges. Amb molta freqüència es tracta de comunicats que els creadors fan als seus subscriptors per tal d'informar-los respecte d'alguna qüestió d'interès del seu canal, però també s'utilitzen per publicar mems i similars.
 
-![Google lens logo](/Media/YoutubeComunityPost.jpg)
+![Post de la comuintat de YouTube](/Media/YoutubeComunityPost.jpg)
 
 
 I després estan els shorts (molt semblants a TikTok), que són vídeos curts d'uns 30 a 60 segons aproximadament, i que són molt senzills de consumir.
 
-![Google lens logo](/Media/YouTubeShort.jpg)
+![Short de YouTube](/Media/YouTubeShort.jpg)
 
 Pel que fa a aquestes funcionalitats, les històries van ser un concepte que no va acabar de quallar entre els seus usuaris i per aquest motiu es va anar desestimant. D’altra banda, els YouTube shorts i les publicacions de la comunitat, s'han tornat extremadament populars entre els usuaris i això ha generat l'existència de canals que únicament es dediquen a generar aquest tipus de continguts.
 
