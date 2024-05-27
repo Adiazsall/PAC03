@@ -1,10 +1,5 @@
 # Google Lens
-
-<figure>
-    <img src="/Media/lens.png"
-         alt="Google lens logo">
-    <figcaption>Logotip de Google Lens</figcaption>
-</figure>
+![Google lens logo](/Media/lens.png)
 
 Google Lens és un programari de reconeixement d'imatges desenvolupat per Google. Aquesta app permet prendre o pujar fotografies de qualsevol cosa que tinguem al nostre abast, i després gràcies a la seva capacitat d'anàlisi, basada en una xarxa neuronal (IA), ens permet fer tota una sèrie d'utilitats amb la fotografia.
 
@@ -54,7 +49,7 @@ També les publicacions de comunitat i enquestes, que en aquest cas són similar
 
 I després estan els shorts (molt semblants a TikTok), que són vídeos curts d'uns 30 a 60 segons aproximadament, i que són molt senzills de consumir.
 
-![Short de YouTube](/Media/YouTubeShort.jpg)
+![Short de YouTube ](/Media/YouTubeShort.jpg)
 
 Pel que fa a aquestes funcionalitats, les històries van ser un concepte que no va acabar de quallar entre els seus usuaris i per aquest motiu es va anar desestimant. D’altra banda, els YouTube shorts i les publicacions de la comunitat, s'han tornat extremadament populars entre els usuaris i això ha generat l'existència de canals que únicament es dediquen a generar aquest tipus de continguts.
 
